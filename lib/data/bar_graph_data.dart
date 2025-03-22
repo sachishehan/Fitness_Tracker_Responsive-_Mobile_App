@@ -1,3 +1,4 @@
+import 'package:fitness_tracker/models/graph_model.dart';
 import 'package:flutter/material.dart';
 import 'package:responsive/models/bar_graph_model.dart';
 import 'package:responsive/models/graph_model.dart';
